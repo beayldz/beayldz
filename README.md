@@ -8,9 +8,6 @@ Interests: Applied Mathematics - Machine Learning - Stochastic Processes - Compu
 
 I am an undergraduate student at Michigan State University studying Advanced Mathematics and Statistics. I am passionate about leveraging mathematical and computational techniques to tackle interdisciplinary research problems.
 
-
----
-
 <div align="center">
 
 ## Skills
