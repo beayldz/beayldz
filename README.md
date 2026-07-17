@@ -2,7 +2,7 @@
 
 # Welcome!
 
-Interests: Applied Mathematics - Machine Learning - Stochastic Processes - Computational Physics
+### Interests: Applied Mathematics - Machine Learning - Stochastic Processes - Computational Physics
 
 </div>
 
