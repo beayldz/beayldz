@@ -2,7 +2,7 @@
 
 # Hello there!
 
-### Interests: Applied Mathematics - Machine Learning - Stochastic Processes - Computational Physics
+### Interests: Applied Mathematics - Machine Learning - Numerical Methods - QISE
 
 </div>
 
