@@ -2,7 +2,7 @@
 
 # Hello there!
 
-### Interests: Applied Mathematics - Machine Learning - Numerical Methods - QISE
+### Interests: Applied Mathematics - Optimization - Numerical Methods - QISE
 
 </div>
 
